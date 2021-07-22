@@ -3,3 +3,8 @@
 2. Honeydew melon
 3. Crunchy cucumber
 4. Some ice
+
+<details>
+  <summary>Why watermelon?</summary>
+  Watermelon rules!
+</details>
